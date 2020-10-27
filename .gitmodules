@@ -1,0 +1,9 @@
+[submodule "yolo-pytorch"]
+	path = yolo-pytorch
+	url = https://github.com/maudzung/Complex-YOLOv4-Pytorch.git
+[submodule "yolo-tensorflow"]
+	path = yolo-tensorflow
+	url = https://github.com/SoloSynth1/tensorflow-yolov4.git
+[submodule "cspn"]
+	path = cspn
+	url = https://github.com/DristiPatel/RebelReindeers.git
